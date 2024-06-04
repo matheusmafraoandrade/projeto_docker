@@ -5,14 +5,6 @@ git clone...
 cd ...
 ```
 
-```
-pyenv local 3.12.3
-```
+docker build ...
 
-```
-pip install pipx
-```
-
-```
-pipx install poetry
-```
+docker run ...
